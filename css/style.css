@@ -1,0 +1,32 @@
+/* CSS styles for term project by Catherine Xia */
+
+body {
+    background-color: #F0F3BD;
+    margin: 0;
+}
+#top {
+    background-color: #00A896;
+
+}
+h1 {
+    text-align: center;
+    color: #04415A;
+    margin-top: 0;
+    padding-top: 1rem;
+    font-size: 3rem;
+}
+
+.redtext {
+    color: #00A896;
+}
+blockquote {
+    margin-left: 5rem;
+    border-left: 1rem solid #028090;
+}
+/* more specific selector needed */
+blockquote p {
+    margin-left: 1rem;
+}
+cite {
+    margin-left: 1rem;
+}

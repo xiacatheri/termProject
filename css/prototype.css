@@ -1,0 +1,25 @@
+img {
+    border: 5px solid #000000;
+    max-width: 60%;
+    max-height: 60%;
+}
+body {
+    background-color: #EBEBD3; 
+}
+
+h1 {
+    color: #2E3447;
+}
+
+p {
+    color: #95190C;
+}
+
+#top {
+    border-left: 10px solid #6290C3;
+    padding: 5px;
+}
+
+a {
+    color: #6290C3;
+}
