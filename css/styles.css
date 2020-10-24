@@ -1,0 +1,18 @@
+body {
+    background-color: #05668D;
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, serif;
+  }
+  
+  #top {
+    background-color: #00A896;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+  }
+  
+  h1 {
+    font-size: 4.4rem;
+    text-align: center;
+    color: #04415A;
+  }
