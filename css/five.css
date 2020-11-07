@@ -28,8 +28,8 @@ h2 {
     font-family: 'Libre Baskerville', serif;
     font-size: 1.5rem;
     border-left: 10px solid #5094CC;
-    padding-left: 10px;
-    padding-bottom: 5px;
+    margin-left: 10px;
+    margin-bottom: 5px;
   }
 
 p {
