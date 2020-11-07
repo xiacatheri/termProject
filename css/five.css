@@ -1,3 +1,8 @@
+img {
+    max-width: 700px;
+    max-height: auto;
+}
+
 body {
     background-color: #F4F7F5;
     margin: 0;
