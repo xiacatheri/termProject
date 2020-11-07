@@ -19,7 +19,7 @@ h1 {
 }
 
 h2 {
-    font-size: 12pt;
+    font-size: 3.5rem;
     text-align: center;
     color: #3F3B4C;
 }
@@ -28,8 +28,7 @@ h2 {
     font-family: 'Libre Baskerville', serif;
     font-size: 1.5rem;
     border-left: 10px solid #5094CC;
-    margin-left: 10px;
-    margin-bottom: 5px;
+    padding: 10px;
   }
 
 p {
