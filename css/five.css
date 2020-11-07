@@ -46,7 +46,7 @@ p {
 }
 
 #video {
-    align-content: center;
+    box-align: center;
 }
 
 h4 {
