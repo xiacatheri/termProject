@@ -55,8 +55,7 @@ p {
     box-align: center;
 }
 
-h4 {
-    margin-left: 5rem;
-    margin-right: 15rem;
-    font-size: 3rem;
+img {
+    max-width: 80%;
+    max-height: 80%;
 }
