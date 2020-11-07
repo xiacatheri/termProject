@@ -58,6 +58,6 @@ p {
 }
 
 img {
-    max-width: 10%;
-    max-height: 10%;
+    width: 400px;
+    height: auto;
 }
