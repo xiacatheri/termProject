@@ -19,7 +19,7 @@ h1 {
 }
 
 h2 {
-    font-size: 3.5 rem;
+    font-size: 12pt;
     text-align: center;
     color: #3F3B4C;
 }
@@ -34,7 +34,7 @@ h2 {
 
 p {
     font-family: Helvetica, Verdana, Arial, sans-serif;
-    font-size: 12pt;
+    font-size: 10pt;
     margin-left: 5rem;
     margin-right: 15rem;
 }
