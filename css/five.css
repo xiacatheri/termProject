@@ -4,6 +4,13 @@ img {
     box-align: center;
 }
 
+#video {
+    display: flex;
+    justify-content: center;
+    max-width: 50%;
+    max-height: 50%;
+}
+
 #top {
     background-color: #D1C5A7;
     padding-top: 10rem;
@@ -56,9 +63,3 @@ p {
     margin-right: 15rem;
 }
 
-#video {
-    display: flex;
-    justify-content: center;
-    max-width: 50%;
-    max-height: 50%;
-}
