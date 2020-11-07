@@ -28,12 +28,13 @@ h2 {
     font-family: 'Libre Baskerville', serif;
     font-size: 1.5rem;
     border-left: 10px solid #5094CC;
-    padding: 10px;
+    padding-left: 20px;
+    text-align: center;
   }
 
 p {
     font-family: Helvetica, Verdana, Arial, sans-serif;
-    font-size: 14pt;
+    font-size: 1.5rem;
     margin-left: 5rem;
     margin-right: 15rem;
 }
