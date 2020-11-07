@@ -8,8 +8,14 @@ body {
 #top {
     background-color: #F4F7F5;
     padding-top: 10rem;
-    padding-bottom: 10rem;
+    padding-bottom: 2rem;
     
+}
+
+#middle {
+    background-color: #5094CC;
+    margin: 0;
+    padding: 0;
 }
 
 h1 {
@@ -37,4 +43,8 @@ p {
     font-size: 1.5rem;
     margin-left: 5rem;
     margin-right: 15rem;
+}
+
+h4 {
+
 }
