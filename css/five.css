@@ -19,16 +19,17 @@ h1 {
 }
 
 h2 {
-    font-size: 2 rem;
+    font-size: 3.5 rem;
     text-align: center;
     color: #3F3B4C;
 }
 
 #quote {
     font-family: 'Libre Baskerville', serif;
-    font-size: 1.8rem;
+    font-size: 1.5 rem;
     border-left: 10px solid #E8AF4C;
-    padding: 5px;
+    padding-left: 10px;
+    
   }
 
 p {
