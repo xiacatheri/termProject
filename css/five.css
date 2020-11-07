@@ -48,3 +48,9 @@ p {
 #video {
     align-content: center;
 }
+
+h4 {
+    margin-left: 5rem;
+    margin-right: 15rem;
+    font-size: 3rem;
+}
