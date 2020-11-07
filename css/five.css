@@ -18,6 +18,12 @@ body {
     padding: 0;
 }
 
+#bottom {
+    background-color: #5094CC;
+    margin: 0;
+    padding: 0;
+}
+
 h1 {
     font-size: 4.4rem;
     text-align: center;
